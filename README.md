@@ -1,1 +1,1 @@
-# team3-vendin-machine
+# team3-vending-machine
